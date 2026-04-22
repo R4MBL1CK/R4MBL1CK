@@ -37,16 +37,6 @@
 
 ---
 
-### 🧪 Latest Work
-<!-- Положи сюда пару самых релевантных проектов, когда будут -->
-- [`synapse`](https://github.com/R4MBL1CK/synapse) — playground по ML/DS.
-<!-- примеры формулировок:
-- `cool-project` — мини-исследование по классификации изображений
-- `itmo-ml-labs` — набор лабораторных/ноутбуков
--->
-
----
-
 ### 🧩 About
 - 🎓 ITMO student • ML enthusiast  
 - 🧠 Интересы: CV, NLP, табличка, классические ML-пайплайны  
@@ -57,6 +47,4 @@
 ### 📬 Contacts
 <!-- подставь свои ссылки -->
 <p align="center">
-  <a href="mailto:your_mail@example.com"><img src="https://img.shields.io/badge/Email-1f2335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/your_tg"><img src="https://img.shields.io/badge/Telegram-1a1b27?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/your_kaggle"><img src="https://img.shields.io/badge/Kaggle-1f2335?style=for-the-badge&logo=kaggle&l_
+  <a href="mailto:fedya.tatarnikov@gmail.com"><img src="https://img.shields.io/badge/Email-1f2335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
